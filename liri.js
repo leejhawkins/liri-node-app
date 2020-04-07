@@ -33,7 +33,7 @@ inquirer
           .prompt([
             {
               type: "input",
-              message: "What song would you like to Spotify",
+              message: "What song would you like to Spotify?",
               name: "song"
             }
           ])
