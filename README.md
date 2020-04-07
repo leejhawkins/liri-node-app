@@ -55,7 +55,7 @@ spotify-this-song| "I Want it That Way"
 concert-this| Rage Against the Machine
 
 ### Link to demo
-
+![LIRI](images/screenshot-liri.jpg)
 [Click for Demo](https://drive.google.com/file/d/1jnuFLWjkm96eyo87PtOdUJ0aFy7sFYyM/view)
 
 
