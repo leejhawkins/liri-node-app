@@ -56,7 +56,7 @@ concert-this| Rage Against the Machine
 
 ### Link to demo
 
-![LIRI](Untitled_ Apr 7, 2020 10_18 AM.gif)
+![LIRI](images/screenshot-liri.jpg)
 
 
 
