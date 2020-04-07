@@ -56,7 +56,6 @@ concert-this| Rage Against the Machine
 
 ### Link to demo
 
-https://drive.google.com/file/d/1jnuFLWjkm96eyo87PtOdUJ0aFy7sFYyM/view - automatic!
 [Demo] (https://drive.google.com/file/d/1jnuFLWjkm96eyo87PtOdUJ0aFy7sFYyM/view)
 
 
